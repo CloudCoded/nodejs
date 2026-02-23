@@ -78,5 +78,6 @@ const logoutUser = async (req, res) => {
 
 export {
     registerUser,
-    loginUser
+    loginUser,
+    logoutUser
 }
